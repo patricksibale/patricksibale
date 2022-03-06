@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Patrick Twambilile Sibale</h1>
 <h3 align="center">I am a Computer Engineering graduate passionate about Front-End Developement</h3>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **React.Js** and solving The Odin Project exercises and Projects
 
 - 📫 How to reach me **twambililesibale@gmail.com**
 

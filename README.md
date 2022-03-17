@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Patrick Twambilile Sibale</h1>
-<h3 align="center">I am a Computer Engineering graduate passionate about Front-End Developement</h3>
+<h3 align="center">I am a Computer Engineer passionate about Front-End Developement</h3>
 
 - 🌱 I’m currently learning **React.Js** and solving The Odin Project exercises and Projects
 
